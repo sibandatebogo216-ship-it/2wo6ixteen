@@ -1,0 +1,6 @@
+{
+  "name": "PC Emulator Console",
+  "description": "A retro PC emulator with deep touch key-mapping, custom BIOS/OS, external controller log systems, and built-in interactive games (Wolf3D Raycaster, Side-Scroller, RTS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
